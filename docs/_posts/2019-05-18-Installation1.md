@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Installation1"
 permalink: /docs/_posts/installation1/
 excerpt: "Instructions for installing the theme for new and existing Jekyll based sites."
